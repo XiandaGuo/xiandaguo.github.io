@@ -1,0 +1,56 @@
+
+<!DOCTYPE HTML>
+
+<style>
+  #full {
+    display: none;
+  }
+  </style>
+
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Xianda Guo</title>
+  
+  <meta name="author" content="Xianda Guo">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <link rel="icon" type="image/png" href="images/icon.png">
+</head>
+
+
+<body>
+  <table style="width:100%;max-width:850px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+    <tr style="padding:0px">
+      <td style="padding:0px">
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr style="padding:0px">
+            <td style="padding:2.5%;width:60%;vertical-align:middle">
+              <p style="text-align:center">
+                <name>Xianda Guo</name>
+              </p>
+              <p> 
+                I am currently a Ph.D in Wuhan University. 
+                <!-- I am interested in computer vision and deep learning. My current research focuses on autonomous driving. -->
+              </p>
+              <p>
+              I am interested in computer vision and deep learning. My current research focuses on:
+              <li style="margin: 5px;" >
+                <b style="color:brown">Vision-centric autonomous driving</b> that efficiently perceives and predicts the complex 3D world based on images.
+              </li>
+                <li style="margin: 5px;" >
+                  <b style="color:green">Omni-supervised representation learning</b> that exploits various types of supervision signals to learn discriminative and generalizable visual representations.
+                </li>
+                 <li style="margin: 5px;" >
+                  <b style="color:orange">Explainable artificial intelligence</b> that builds comprehensible and trustworthy AI systems with high performance.
+                </li>
+              </p>
+              <b>If you want to work with me (in person or remotely) as an intern, feel free to drop me an email at xianda_guo@163.com. I will support GPUs if we are a good fit.</b>
+              <p style="text-align:center">
+                <a href="mailto:xianda_guo@163.com">Email</a> &nbsp/&nbsp
+                <a href="https://scholar.google.com/citations?user=jPvOqgYAAAAJ&hl=zh-CN"> Google Scholar</a> &nbsp/&nbsp
+                <a href="https://github.com/XiandaGuo"> GitHub </a>
+              </p>
+            </td>
+          </tr>
+        </tbody></table>
+      </tbody></table>
